@@ -7,8 +7,11 @@
 # Date modified:  -- April 2015                                                     #
 #-----------------------------------------------------------------------------------#
 # Description:                                                                      #
-#     .         #
-#     .                  #
+#     Program reads in a specified data file. The relevant rows are identified.     #
+#     Four plots are printed on one page. The first plots kW against time (see      #
+#     plot 2). The second plots V vs time. The third is similar to plot3. The       #
+#     fourth plots VAR vs time, similarly to the first and second plots here.       #
+#     Uses base plotting.                                                           #
 #-----------------------------------------------------------------------------------#
 
 

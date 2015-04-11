@@ -7,8 +7,9 @@
 # Date modified:  10 April 2015                                                     #
 #-----------------------------------------------------------------------------------#
 # Description:                                                                      #
-#     .         #
-#     .                  #
+#     Program reads in a specified data file. The relevant rows are identified.     #
+#     A histogram of the kW data is created and saved to png.                       #
+#     Uses base plotting.                                                           #
 #-----------------------------------------------------------------------------------#
 
 

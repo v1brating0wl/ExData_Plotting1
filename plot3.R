@@ -7,8 +7,9 @@
 # Date modified:  -- April 2015                                                     #
 #-----------------------------------------------------------------------------------#
 # Description:                                                                      #
-#     .         #
-#     .                  #
+#     Program reads in a specified data file. The relevant rows are identified.     #
+#     The three sets of data are plotted on the same set of axes.                   #
+#     Uses base plotting.                                                           #
 #-----------------------------------------------------------------------------------#
 
 

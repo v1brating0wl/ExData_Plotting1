@@ -7,8 +7,10 @@
 # Date modified:  -- April 2015                                                     #
 #-----------------------------------------------------------------------------------#
 # Description:                                                                      #
-#     .         #
-#     .                  #
+#     Program reads in a specified data file. The relevant rows are identified.     #
+#     The kW over the 2 day period are plotted against time, with the x axis        #
+#     indicating the day of occurance.                                              #
+#     Uses base plotting.                                                           #
 #-----------------------------------------------------------------------------------#
 
 
